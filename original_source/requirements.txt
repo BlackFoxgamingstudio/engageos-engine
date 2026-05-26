@@ -1,4 +1,1 @@
-crewai==0.28.8
-langchain==0.1.16
-chromadb==0.4.24
-pydantic==2.6.4
+../../../repositories/engageos-engine/requirements.txt
